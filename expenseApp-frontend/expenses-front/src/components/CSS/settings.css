@@ -1,0 +1,57 @@
+#settings {
+    position: relative;
+    top: -344px;
+    left: 328px;
+    color: black;
+    height: 100vh;
+}
+
+#category {
+    position: relative;
+    top: -81px;
+    left: 387px;
+}
+
+#welcome {
+    background-color: brown;
+    position: absolute;
+    top: -20px;
+    left: -20px;
+    text-align: center;
+    font-size: 24px;
+    width: 1216px;
+    display: flex;
+}
+
+#budget {
+    position: relative;
+    top: 54px;
+    left: 40px;
+}
+
+input[type='text']{
+    width: 212px;
+    height: 19px;
+    position: relative;
+    top: -9px;
+    left: 1px;
+}
+
+input[type='submit']{
+    position: relative;
+    top: -5px;
+    left: 2px;
+    height: 22px;
+    width: 218px;
+    display: flex;
+    justify-content: center;
+}
+
+#expense {
+    position: relative;
+    top: -541px;
+    left: 783px;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,42 @@
+#heading {
+    position: relative;
+    top: -346px;
+    left: 309px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: darkred;
+    width: 1210px;
+}
+
+#analytics #form {
+    position: relative;
+    top: -354px;
+    left: 625px;
+}   
+
+#analytics #submit {
+    position: relative;
+    top: -45px;
+    left: 343px;
+}
+
+#analytics #label{
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: 0px;
+    left: -144px;
+}
+
+#analytics #endDate{
+    position: relative;
+    top: -24px;
+    left: 215px;
+}
+
+#analytics #pie {
+    position: relative;
+    top: -374px;
+    left: 568px;
+}

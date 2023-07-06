@@ -1,0 +1,67 @@
+#register {
+    position: absolute;
+    left: 407px;
+    top: 208px;
+}
+#register #formdiv{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+#register h2 {
+    color: #1614149c;
+    font-size: 30px;
+    text-align: center;
+}
+
+#register h1{
+    text-align: center;
+    background-color: rgb(19, 168, 136);
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    height: 33px;
+    flex-direction: column;
+}
+
+input[type='submit']{
+    width: 100%;
+    color: #0d0e0d;
+    background-color: rgb(107, 165, 20);
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+input[type='submit']:hover{
+    background-color: lightgreen;
+    cursor: pointer;
+}
+
+input[type='text']::placeholder{
+    font-size: 20px;
+}
+
+input[type='password']::placeholder{
+    font-size: 20px;
+}
+
+#register img {
+    width: 468px;
+    position: absolute;
+    top: -35px;
+    left: 495px;
+    height: 60vh;
+}
+
+#register input[type='password'] {
+    width: 212px;
+    height: 20px;
+    position: relative;
+    top: -8px;
+    left: 1px;
+}
+
+#register input[type='submit'] {
+    width: 100%;
+    height: 29px;
+}

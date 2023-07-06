@@ -1,0 +1,28 @@
+#welcome2{
+    position: relative;
+    top: -345px;
+    left: 307px;
+    color: black;
+    font-size: 25px;
+    background-color: darkred;
+    width: 1212px;
+}
+
+#home2 p{
+    position: relative;
+    top: -345px;
+    left: 307px;
+    color: black;
+    font-size: 17px;
+    width: 1212px;
+}
+
+#home2 #features2{
+    color: black;
+    position: relative;
+    top: -358px;
+    left: 307px;
+    font-size: 24px;
+    background-color: darkred;
+    width: 1212px;
+}

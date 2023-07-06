@@ -1,0 +1,55 @@
+#home #welcome {
+    background-color: brown;
+    position: absolute;
+    top: 67px;
+    left: 302px;
+    text-align: center;
+    font-size: 24px;
+    width: 1216px;
+    display: flex;
+}
+
+#features {
+    background-color: brown;
+    position: absolute;
+    top: 180px;
+    left: 302px;
+    text-align: center;
+    font-size: 24px;
+    width: 1216px;
+    display: flex;
+}
+
+#home p {
+    position: relative;
+    top: -138px;
+    left: 306px;
+    color: black;
+    width: 1189px;
+}
+
+#home input[type='text'] {
+    width: 317px;
+    height: 37px;
+    position: relative;
+    top: -9px;
+    left: 1px;
+}
+
+#home input[type='password']{
+    position: relative;
+    width: 318px;
+    height: 37px;
+    font-size: 20px;
+    top: -9px;
+}
+
+#home input[type='submit'] {
+    position: relative;
+    top: -5px;
+    left: 2px;
+    height: 42px;
+    width: 323px;
+    display: flex;
+    justify-content: center;
+}

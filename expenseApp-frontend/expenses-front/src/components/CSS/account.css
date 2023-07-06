@@ -1,0 +1,18 @@
+#details{
+    position: absolute;
+    top: 69px;
+    left: 328px;
+    font-size: 20px;
+    color: black;
+    background-color: grey;
+    width: 1191px;
+}
+
+#list {
+    position: absolute;
+    top: 134px;
+    left: 359px;
+    color: rgb(180, 107, 24);
+    font-weight: bold;
+    font-size: 20px;
+}

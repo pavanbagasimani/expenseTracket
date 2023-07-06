@@ -1,0 +1,20 @@
+.navBar{
+    background-color: black;
+    width: 300px;
+    height: 100vh;
+    color: white;
+}
+
+a{
+    color: rgb(27, 195, 246);  
+}
+
+a:hover{
+    color: green;
+}
+
+.navBar h2 {
+    font-size: 27px;
+}
+
+

@@ -1,0 +1,12 @@
+
+#tracker {
+    text-align: center;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    height: 33px;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black
+}

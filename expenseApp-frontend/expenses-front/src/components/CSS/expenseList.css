@@ -1,0 +1,57 @@
+#expenseList{
+    position: relative;
+    top: -350px;
+    left: 354px;
+    color: black;
+}
+
+#expenseList #head{
+    position: relative;
+    top: 6px;
+    left: -45px;
+    font-size: 20px;
+    background-color: darkred;
+    width: 1202px;
+}
+
+#expenseList input[type='text']{
+    position: relative;
+    top: -7px;
+    left: 133px;
+    width: 318px;
+    height: 20px;
+    display: flex;
+}
+
+#expenseList input[type='submit']{
+    position: relative;
+    top: -34px;
+    left: 472px;
+    width: 80px;
+    height: 26px;
+}
+
+#expenseList #table {
+    position: absolute;
+    top: 81px;
+    left: -40px;
+    width: 585px;
+}
+
+ #expenseList #editExpense{
+    position: relative;
+    top: -81px;
+    left: 591px;
+}
+
+#expenseList #editExpense input[type=text]{
+    position: relative;
+    top: -6px;
+    left: 2px;
+}
+
+#expenseList #editExpense input[type='submit']{
+    position: relative;
+    top: 20px;
+    left: 2px;
+}

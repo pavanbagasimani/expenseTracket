@@ -1,0 +1,34 @@
+#expensecomp input[type='text'] {
+    width: 245px;
+    height: 31px;
+}
+
+#expensecomp label {
+    position: relative;
+    top: -12px;
+    left: 2px;
+}
+
+#expensecomp input[type='date'] {
+    position: relative;
+    top: -8px;
+    left: 1px;
+    height: 38px;
+    width: 248px;
+}
+
+#expesecomp #categorylist{
+    position: relative;
+    top: -8px;
+    left: 2px;
+    height: 43px;
+    width: 252px;
+}
+
+#expensecomp input[type='submit'] {
+    width: 256px;
+    height: 20px;
+    position: relative;
+    top: 3px;
+    left: 1px;
+}
